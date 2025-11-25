@@ -2,6 +2,7 @@
 
 
 
+
 # reds
 
   reds is a light-weight Redis search for node.js. This module was originally developed to provide search capabilities for Kue a priority job queue, however it is very much a light general purpose search library that could be integrated into a blog, a documentation server, etc.
