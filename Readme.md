@@ -32,6 +32,7 @@
 
 
 
+
 The first thing you'll want to do is create a `Search` instance, which allows you to pass a `key`, used for namespacing within Redis so that you may have several searches in the same db.
 
     var search = reds.createSearch('pets');
